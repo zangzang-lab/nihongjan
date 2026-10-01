@@ -1,0 +1,16 @@
+{
+  "source_zip": "nihongjan(1).zip",
+  "source_zip_sha256": "81338539442d187f52db8db2f31f8cf379dddbb8d6d83c6c55621dbdeec417f8",
+  "files": [
+    "src/lib/romaji.ts",
+    "src/components/shared/japanese-text.tsx",
+    "src/components/shared/grammar-hub.tsx",
+    "src/data/dokkai-model.ts",
+    "src/components/shared/dokkai-hub.tsx",
+    "src/styles.css",
+    "src/data/derived/grammar-readings.json",
+    "src/data/derived/dokkai-reading-anchors.json"
+  ],
+  "patch_sha256": "fbf77a262c4dfb3eb48d9add2002fb96b64b4f95f3f407052e299f253e9cdc46",
+  "status": "manual staging patch; not production merged"
+}

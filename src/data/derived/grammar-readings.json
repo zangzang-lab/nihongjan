@@ -1,0 +1,918 @@
+{
+  "schema_version": 1,
+  "status": "derived staging asset",
+  "rule": "Kanji-bearing Bunpō pattern reading anchors for N5/N4/N3. Formation strings remain segment-based and canonical grammar is untouched.",
+  "levels": {
+    "n5": {
+      "grammar-n5-000017": {
+        "grammarId": "grammar-n5-000017",
+        "pattern": "一番",
+        "reading": "いちばん",
+        "status": "high"
+      },
+      "grammar-n5-000018": {
+        "grammarId": "grammar-n5-000018",
+        "pattern": "一緒に",
+        "reading": "いっしょに",
+        "status": "high"
+      },
+      "grammar-n5-000024": {
+        "grammarId": "grammar-n5-000024",
+        "pattern": "方",
+        "reading": "かた",
+        "status": "high"
+      },
+      "grammar-n5-000030": {
+        "grammarId": "grammar-n5-000030",
+        "pattern": "前に",
+        "reading": "まえに",
+        "status": "high"
+      },
+      "grammar-n5-000049": {
+        "grammarId": "grammar-n5-000049",
+        "pattern": "に行く",
+        "reading": "にいく",
+        "status": "high"
+      },
+      "grammar-n5-000054": {
+        "grammarId": "grammar-n5-000054",
+        "pattern": "のが下手",
+        "reading": "のがへた",
+        "status": "high"
+      },
+      "grammar-n5-000055": {
+        "grammarId": "grammar-n5-000055",
+        "pattern": "のが上手",
+        "reading": "のがじょうず",
+        "status": "high"
+      },
+      "grammar-n5-000056": {
+        "grammarId": "grammar-n5-000056",
+        "pattern": "のが好き",
+        "reading": "のがすき",
+        "status": "high"
+      },
+      "grammar-n5-000057": {
+        "grammarId": "grammar-n5-000057",
+        "pattern": "の中で～が一番",
+        "reading": "のなかで～がいちばん",
+        "status": "high"
+      }
+    },
+    "n4": {
+      "grammar-n4-000001": {
+        "grammarId": "grammar-n4-000001",
+        "pattern": "間（あいだ）",
+        "reading": "あいだ",
+        "status": "high"
+      },
+      "grammar-n4-000002": {
+        "grammarId": "grammar-n4-000002",
+        "pattern": "間に",
+        "reading": "あいだに",
+        "status": "high"
+      },
+      "grammar-n4-000004": {
+        "grammarId": "grammar-n4-000004",
+        "pattern": "後で",
+        "reading": "あとで",
+        "status": "high"
+      },
+      "grammar-n4-000006": {
+        "grammarId": "grammar-n4-000006",
+        "pattern": "場合は",
+        "reading": "ばあいは",
+        "status": "high"
+      },
+      "grammar-n4-000009": {
+        "grammarId": "grammar-n4-000009",
+        "pattern": "出す（だす）",
+        "reading": "だす",
+        "status": "high"
+      },
+      "grammar-n4-000013": {
+        "grammarId": "grammar-n4-000013",
+        "pattern": "が必要",
+        "reading": "がひつよう",
+        "status": "high"
+      },
+      "grammar-n4-000018": {
+        "grammarId": "grammar-n4-000018",
+        "pattern": "始める",
+        "reading": "はじめる",
+        "status": "high"
+      },
+      "grammar-n4-000021": {
+        "grammarId": "grammar-n4-000021",
+        "pattern": "必要がある",
+        "reading": "ひつようがある",
+        "status": "high"
+      },
+      "grammar-n4-000022": {
+        "grammarId": "grammar-n4-000022",
+        "pattern": "意向形（いこうけい）",
+        "reading": "いこうけい",
+        "status": "high"
+      },
+      "grammar-n4-000031": {
+        "grammarId": "grammar-n4-000031",
+        "pattern": "から作る",
+        "reading": "からつくる",
+        "status": "high"
+      },
+      "grammar-n4-000033": {
+        "grammarId": "grammar-n4-000033",
+        "pattern": "頃（ころ / ごろ）",
+        "reading": [
+          "ころ",
+          "ごろ"
+        ],
+        "status": "review"
+      },
+      "grammar-n4-000040": {
+        "grammarId": "grammar-n4-000040",
+        "pattern": "急に",
+        "reading": "きゅうに",
+        "status": "high"
+      },
+      "grammar-n4-000057": {
+        "grammarId": "grammar-n4-000057",
+        "pattern": "に気がつく",
+        "reading": "にきがつく",
+        "status": "high"
+      },
+      "grammar-n4-000058": {
+        "grammarId": "grammar-n4-000058",
+        "pattern": "に見える",
+        "reading": "にみえる",
+        "status": "high"
+      },
+      "grammar-n4-000061": {
+        "grammarId": "grammar-n4-000061",
+        "pattern": "の中で",
+        "reading": "のなかで",
+        "status": "high"
+      },
+      "grammar-n4-000068": {
+        "grammarId": "grammar-n4-000068",
+        "pattern": "終わる",
+        "reading": "おわる",
+        "status": "high"
+      },
+      "grammar-n4-000086": {
+        "grammarId": "grammar-n4-000086",
+        "pattern": "他動詞 & 自動詞",
+        "reading": "たどうし & じどうし",
+        "status": "high"
+      },
+      "grammar-n4-000109": {
+        "grammarId": "grammar-n4-000109",
+        "pattern": "と言ってもいい",
+        "reading": "といってもいい",
+        "status": "high"
+      },
+      "grammar-n4-000112": {
+        "grammarId": "grammar-n4-000112",
+        "pattern": "と言われている",
+        "reading": "といわれている",
+        "status": "high"
+      },
+      "grammar-n4-000113": {
+        "grammarId": "grammar-n4-000113",
+        "pattern": "と聞いた",
+        "reading": "ときいた",
+        "status": "high"
+      },
+      "grammar-n4-000114": {
+        "grammarId": "grammar-n4-000114",
+        "pattern": "と思う",
+        "reading": "とおもう",
+        "status": "high"
+      },
+      "grammar-n4-000117": {
+        "grammarId": "grammar-n4-000117",
+        "pattern": "続ける",
+        "reading": "つづける",
+        "status": "high"
+      },
+      "grammar-n4-000119": {
+        "grammarId": "grammar-n4-000119",
+        "pattern": "受身形（うけみけい）",
+        "reading": "うけみけい",
+        "status": "high"
+      },
+      "grammar-n4-000124": {
+        "grammarId": "grammar-n4-000124",
+        "pattern": "予定だ",
+        "reading": "よていだ",
+        "status": "high"
+      },
+      "grammar-n4-000129": {
+        "grammarId": "grammar-n4-000129",
+        "pattern": "ようと思う",
+        "reading": "ようとおもう",
+        "status": "high"
+      },
+      "grammar-n4-000131": {
+        "grammarId": "grammar-n4-000131",
+        "pattern": "全然～ない",
+        "reading": "ぜんぜん～ない",
+        "status": "high"
+      }
+    },
+    "n3": {
+      "grammar-n3-0001": {
+        "pattern": {
+          "reading": "あげる"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "上げる",
+              "あげる"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0004": {
+        "pattern": {
+          "reading": "あう"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "合う",
+              "あう"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0013": {
+        "pattern": {
+          "reading": "べつに～ない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "別に",
+              "べつに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0015": {
+        "pattern": {
+          "reading": "ちゅう / じゅう",
+          "alternatives": [
+            "ちゅう",
+            "じゅう"
+          ],
+          "status": "review"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "中",
+              "ちゅう / じゅう"
+            ]
+          ],
+          "status": "review"
+        }
+      },
+      "grammar-n3-0026": {
+        "pattern": {
+          "reading": "ぎみ"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "気味",
+              "ぎみ"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0030": {
+        "pattern": {
+          "reading": "いちどに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "一度に",
+              "いちどに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0032": {
+        "pattern": {
+          "reading": "いっぽうだ"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "一方だ",
+              "いっぽうだ"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0033": {
+        "pattern": {
+          "reading": "いったい"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "一体",
+              "いったい"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0035": {
+        "pattern": {
+          "reading": "かなにか"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "か何か",
+              "かなにか"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0038": {
+        "pattern": {
+          "reading": "かわりに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "代わりに",
+              "かわりに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0039": {
+        "pattern": {
+          "reading": "けっか"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "結果",
+              "けっか"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0040": {
+        "pattern": {
+          "reading": "けっきょく"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "結局",
+              "けっきょく"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0041": {
+        "pattern": {
+          "reading": "けっして～ない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "決して",
+              "けっして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0042": {
+        "pattern": {
+          "reading": "きれない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "切れない",
+              "きれない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0044": {
+        "pattern": {
+          "reading": "きる"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "切る",
+              "きる"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0046": {
+        "pattern": {
+          "reading": "こむ"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "込む",
+              "こむ"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0061": {
+        "pattern": {
+          "reading": "むけ"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "向け",
+              "むけ"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0062": {
+        "pattern": {
+          "reading": "むき"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "向き",
+              "むき"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0069": {
+        "pattern": {
+          "reading": "なおす"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "直す",
+              "なおす"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0073": {
+        "pattern": {
+          "reading": "にちがいない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に違いない",
+              "にちがいない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0074": {
+        "pattern": {
+          "reading": "にはんして"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に反して",
+              "にはんして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0076": {
+        "pattern": {
+          "reading": "にかんする / にかんして"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に関する",
+              "にかんする"
+            ],
+            [
+              "に関して",
+              "にかんして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0078": {
+        "pattern": {
+          "reading": "にくらべて"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に比べて",
+              "にくらべて"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0079": {
+        "pattern": {
+          "reading": "になれる"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に慣れる",
+              "になれる"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0084": {
+        "pattern": {
+          "reading": "にたいして"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "に対して",
+              "にたいして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0092": {
+        "pattern": {
+          "reading": "をちゅうしんに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "を中心に",
+              "をちゅうしんに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0094": {
+        "pattern": {
+          "reading": "をこめて"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "を込めて",
+              "をこめて"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0095": {
+        "pattern": {
+          "reading": "をつうじて / をとおして"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "を通じて",
+              "をつうじて"
+            ],
+            [
+              "を通して",
+              "をとおして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0101": {
+        "pattern": {
+          "reading": "さいに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "際に",
+              "さいに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0102": {
+        "pattern": {
+          "reading": "さいちゅうに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "最中に",
+              "さいちゅうに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0114": {
+        "pattern": {
+          "reading": "すうりょう + は"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "数量",
+              "すうりょう"
+            ],
+            [
+              "は",
+              "は",
+              "particle"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0119": {
+        "pattern": {
+          "reading": "たしかに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "確かに",
+              "たしかに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0122": {
+        "pattern": {
+          "reading": "たとえば"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "例えば",
+              "たとえば"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0129": {
+        "pattern": {
+          "reading": "てすむ"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "済む",
+              "すむ"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0131": {
+        "pattern": {
+          "reading": "ているばあいじゃない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "場合じゃない",
+              "ばあいじゃない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0132": {
+        "pattern": {
+          "reading": "てき"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "的",
+              "てき"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0133": {
+        "pattern": {
+          "reading": "てもはじまらない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "も始まらない",
+              "もはじまらない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0134": {
+        "pattern": {
+          "reading": "てもかまわない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "も構わない",
+              "もかまわない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0136": {
+        "pattern": {
+          "reading": "といえば"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "と言えば",
+              "といえば"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0141": {
+        "pattern": {
+          "reading": "というと"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "と言うと",
+              "というと"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0145": {
+        "pattern": {
+          "reading": "とともに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "と共に",
+              "とともに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0146": {
+        "pattern": {
+          "reading": "とちゅうで / とちゅうに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "途中で",
+              "とちゅうで"
+            ],
+            [
+              "途中に",
+              "とちゅうに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0150": {
+        "pattern": {
+          "reading": "とおす"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "通す",
+              "とおす"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0153": {
+        "pattern": {
+          "reading": "とはかぎらない"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "とは限らない",
+              "とはかぎらない"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0161": {
+        "pattern": {
+          "reading": "うえで",
+          "status": "review",
+          "note": "Grammar pattern meaning depends on context; the canonical pattern uses 上で."
+        },
+        "formation": {
+          "chunks": [
+            [
+              "上で",
+              "うえで"
+            ]
+          ],
+          "status": "review"
+        }
+      },
+      "grammar-n3-0162": {
+        "pattern": {
+          "reading": "うえに",
+          "status": "review",
+          "note": "Grammar pattern meaning depends on context; the canonical pattern uses 上に."
+        },
+        "formation": {
+          "chunks": [
+            [
+              "上に",
+              "うえに"
+            ]
+          ],
+          "status": "review"
+        }
+      },
+      "grammar-n3-0163": {
+        "pattern": {
+          "reading": "はべつとして"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "は別として",
+              "はべつとして"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0165": {
+        "pattern": {
+          "reading": "は～でゆうめい"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "で有名",
+              "でゆうめい"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0170": {
+        "pattern": {
+          "reading": "わりに"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "割に",
+              "わりに"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0175": {
+        "pattern": {
+          "reading": "ようなきがする"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "ような気がする",
+              "ようなきがする"
+            ]
+          ]
+        }
+      },
+      "grammar-n3-0177": {
+        "pattern": {
+          "reading": "ようにみえる"
+        },
+        "formation": {
+          "chunks": [
+            [
+              "ように見える",
+              "ようにみえる"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

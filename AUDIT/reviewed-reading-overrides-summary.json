@@ -1,0 +1,23 @@
+{
+  "source_zip_sha256": "81338539442d187f52db8db2f31f8cf379dddbb8d6d83c6c55621dbdeec417f8",
+  "reviewed_high_confidence_overrides": 138,
+  "by_level": {
+    "n5": 87,
+    "n4": 23,
+    "n3": 28
+  },
+  "scope": [
+    "irregular lexical readings",
+    "context-sensitive kanji readings",
+    "weekday/compound voicing",
+    "counters and calendar expressions",
+    "numeric expressions"
+  ],
+  "excluded_as_ambiguous": [
+    "valid alternate lexical readings",
+    "sentence-vocabulary anchor conflicts requiring canonical-content decision",
+    "standalone あっ interjection",
+    "proper-name reading guesses"
+  ],
+  "status": "staging manifest; not yet applied to production"
+}
