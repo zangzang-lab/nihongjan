@@ -16,7 +16,7 @@ ce47759ecb0ca113b76a4baae0f21ba8ddf27b225949597fa39b7b1427ae536  src/data/n5/can
 
 4f24657394e7fc6c0c1da49e41b0b0328d01350f368861552eef6c12e227d9b8  src/data/n4/canonical/n4_vocab.json
 a13ac6db507d848a66b55966e9557cd8ad69dd39c500258749953aeb1c07c9d3  src/data/n4/canonical/n4_kanji.json
-dd2ab1fe6368fb9a3763ab20f801bf1d556a4160b51c2ba88365a5ebe69c0f64  src/data/n4/canonical/n4_vocab_examples.json
+dd2ab1fe6368fb9a3763ab20f801bf1d556a4160b51c2ba88365a5ebe69c0f64d  src/data/n4/canonical/n4_vocab_examples.json
 5222ea4e4c0bca113b76a4baae0f21ba8ddf27b225949597fa39b7b1427ae536  src/data/n4/canonical/n4_grammar.json
 559bd436322a98bc88cf272efe3ce3f46c4bb56396e5706ac243267ec6143248  src/data/n4/canonical/n4_grammar_examples.json
 
@@ -26,7 +26,7 @@ dd2ab1fe6368fb9a3763ab20f801bf1d556a4160b51c2ba88365a5ebe69c0f64  src/data/n4/ca
 65d8a3ae3ba2103c5cbd28c95edac8c637085c93f855e319e4148d504f79fdf0  src/data/n3/canonical/n3_kanji.json
 b6f5aec316fd41fbfd06e7ed632ce8d45518391becd60956236efa71be88df94  src/data/n3/canonical/n3_vocab_examples.json
 a23576e9bebaeaceacdc072298a84439efd70520e07a5a8add801343eea319e  src/data/n3/canonical/n3_grammar.json
-6a57af3734ed80c7314f67546916c1f2e78ed8248a8add801343eea319e  src/data/n3/canonical/n3_grammar_examples.json
+6a57af3734ed80c7314f67546916c1f2e78e7244eeecaa8add801343eea319e  src/data/n3/canonical/n3_grammar_examples.json
 
 ## Integrity result
 
