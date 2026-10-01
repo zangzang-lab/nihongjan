@@ -173,3 +173,59 @@ Choukai remains blocked until:
 - N5/N4/N3 browser checks pass
 - mobile checks pass
 - canonical datasets remain untouched
+
+
+## Newly confirmed coverage gaps
+
+### Dokkai
+- N4: all 906 kanji-bearing tokens have readings.
+- N3: 7 kanji-bearing tokens lack readings and therefore need derived anchors.
+- N5 token audit found no kanji-bearing token without a reading.
+- N5/N4/N3 titles have Japanese content but no dedicated reading field, so title Romaji needs a derived title-reading layer if the requirement is literal "Romaji everywhere".
+
+### Bunpō
+- N3 has 51 kanji-bearing grammar patterns and 50 kanji-bearing formation strings.
+- Canonical grammar records do not contain dedicated reading fields.
+- A derived grammar-reading layer is therefore required for full Romaji coverage.
+- Formation strings mix English placeholders with Japanese and need segment-aware rendering; do not attach one full-string reading blindly.
+
+### Derived data candidate
+A local candidate package has been generated from the 110 reviewed sentence-reading overrides:
+
+- N5: 64
+- N4: 23
+- N3: 23
+
+The candidate contains only derived sentence assets and a manifest. It does not modify canonical files.
+
+It is staging-only because the Romaji strings were regenerated locally from the reviewed kana readings with an ASCII-friendly Hepburn converter, while the project's intended morphology stack (Fugashi + Unidic + Pykakasi) is unavailable in the audit environment. Final production regeneration should use the intended morphology pipeline.
+
+### Rule coverage
+Romaji QA must cover more than particles:
+- Hepburn base mapping
+- yōon
+- sokuon
+- moraic ん
+- particles
+- long vowels
+- punctuation
+- word boundaries
+- irregular lexical readings
+- context-sensitive readings
+- counters/calendar expressions
+- rendaku
+- numerals
+- loanwords/chōonpu
+- proper names
+- assessment safety
+
+## Final implementation principle
+
+Do not make JapaneseText infer kanji readings from kanji text.
+
+Require one of:
+1. a canonical reading already present,
+2. a validated derived reading anchor keyed by source ID, or
+3. a validated segment-level reading structure for mixed grammar/formula text.
+
+Unknown readings remain unknown rather than guessed.
