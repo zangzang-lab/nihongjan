@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "status": "derived staging asset",
+  "note": "Do not modify canonical Dokkai sources. Existing token readings remain authoritative; this asset fills title readings and only currently missing N3 token anchors.",
+  "titles": {
+    "N5": {
+      "intro": {
+        "text": "自己紹介",
+        "reading": "じこしょうかい",
+        "status": "high"
+      },
+      "store": {
+        "text": "コンビニで",
+        "reading": "コンビニで",
+        "status": "high"
+      },
+      "weekend": {
+        "text": "週末",
+        "reading": "しゅうまつ",
+        "status": "high"
+      },
+      "family": {
+        "text": "私の家族",
+        "reading": "わたしのかぞく",
+        "status": "high"
+      },
+      "morning": {
+        "text": "朝の時間",
+        "reading": "あさのじかん",
+        "status": "high"
+      },
+      "restaurant": {
+        "text": "レストランで",
+        "reading": "レストランで",
+        "status": "high"
+      },
+      "train": {
+        "text": "電車の時間",
+        "reading": "でんしゃのじかん",
+        "status": "high"
+      },
+      "hobby": {
+        "text": "私の趣味",
+        "reading": "わたしのしゅみ",
+        "status": "high"
+      },
+      "weather": {
+        "text": "天気予報",
+        "reading": "てんきよほう",
+        "status": "high"
+      },
+      "konbini": {
+        "text": "コンビニで買い物",
+        "reading": "コンビニでかいもの",
+        "status": "high"
+      },
+      "routine": {
+        "text": "毎日の生活",
+        "reading": "まいにちのせいかつ",
+        "status": "high"
+      },
+      "library": {
+        "text": "図書館",
+        "reading": "としょかん",
+        "status": "high"
+      }
+    },
+    "N4": {
+      "n4-p1": {
+        "text": "アルバイトの一日",
+        "reading": "アルバイトのいちにち",
+        "status": "high"
+      },
+      "n4-p2": {
+        "text": "病院へ行く",
+        "reading": "びょういんへいく",
+        "status": "high"
+      },
+      "n4-p3": {
+        "text": "新しいアパートへの引っ越し",
+        "reading": "あたらしいアパートへのひっこし",
+        "status": "high"
+      },
+      "n4-p4": {
+        "text": "ホストファミリーへの手紙",
+        "reading": "ホストファミリーへのてがみ",
+        "status": "high"
+      },
+      "n4-p5": {
+        "text": "文化祭",
+        "reading": "ぶんかさい",
+        "status": "high"
+      },
+      "n4-p6": {
+        "text": "駅でなくした傘",
+        "reading": "えきでなくしたかさ",
+        "status": "high"
+      },
+      "n4-p7": {
+        "text": "北海道旅行の計画",
+        "reading": "ほっかいどうりょこうのけいかく",
+        "status": "high"
+      },
+      "n4-p8": {
+        "text": "祖母のレシピ",
+        "reading": "そぼのレシピ",
+        "status": "high"
+      },
+      "n4-p9": {
+        "text": "会社の寮のルール",
+        "reading": "かいしゃのりょうのルール",
+        "status": "high"
+      },
+      "n4-p10": {
+        "text": "雨の日曜日に変わった予定",
+        "reading": "あめのにちようびにかわったよてい",
+        "status": "high"
+      }
+    },
+    "N3": {
+      "n3-p1": {
+        "text": "在宅勤務の良さと難しさ",
+        "reading": "ざいたくきんむのよさとむずかしさ",
+        "status": "high"
+      },
+      "n3-p2": {
+        "text": "祖母の畑",
+        "reading": "そぼのはたけ",
+        "status": "high"
+      },
+      "n3-p3": {
+        "text": "図書館からのお知らせ",
+        "reading": "としょかんからのおしらせ",
+        "status": "high"
+      },
+      "n3-p4": {
+        "text": "初めての一人暮らし",
+        "reading": "はじめてのひとりぐらし",
+        "status": "high"
+      },
+      "n3-p5": {
+        "text": "市内で大雨、電車に遅れ",
+        "reading": "しないでおおあめ、でんしゃにおくれ",
+        "status": "review"
+      },
+      "n3-p6": {
+        "text": "「もったいない」という心",
+        "reading": "「もったいない」というこころ",
+        "status": "high"
+      },
+      "n3-p7": {
+        "text": "打ち合わせ日程のご返信",
+        "reading": "うちあわせにっていのごへんしん",
+        "status": "high"
+      },
+      "n3-p8": {
+        "text": "避難訓練のお知らせ",
+        "reading": "ひなんくんれんのおしらせ",
+        "status": "high"
+      },
+      "n3-p9": {
+        "text": "リサイクルと私たちの生活",
+        "reading": "リサイクルとわたしたちのせいかつ",
+        "status": "high"
+      },
+      "n3-p10": {
+        "text": "夏祭りボランティア募集のご案内",
+        "reading": "なつまつりボランティアぼしゅうのごあんない",
+        "status": "high"
+      },
+      "n3-p11": {
+        "text": "Re: 入居条件とゴミの出し方について",
+        "reading": "Re: にゅうきょじょうけんとゴミのでかたについて",
+        "status": "review"
+      },
+      "n3-p12": {
+        "text": "「働き方改革」は私たちを幸せにするか",
+        "reading": "「はたらきかたかいかく」はわたしたちをしあわせにするか",
+        "status": "high"
+      },
+      "n3-p13": {
+        "text": "AIと これからの 仕事",
+        "reading": "AIとこれからのしごと",
+        "status": "high"
+      },
+      "n3-p14": {
+        "text": "健康診断のお知らせ",
+        "reading": "けんこうしんだんのおしらせ",
+        "status": "high"
+      },
+      "n3-p15": {
+        "text": "在宅勤務のルールについて",
+        "reading": "ざいたくきんむのルールについて",
+        "status": "high"
+      },
+      "n3-p16": {
+        "text": "私の好きな日本の季節の行事",
+        "reading": "わたしのすきなにほんのきせつのぎょうじ",
+        "status": "review"
+      }
+    }
+  },
+  "missingN3Tokens": [
+    {
+      "passageId": "n3-p1",
+      "text": "行く",
+      "reading": "いく",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p2",
+      "text": "行く",
+      "reading": "いく",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p3",
+      "text": "入れて",
+      "reading": "いれて",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p4",
+      "text": "入って",
+      "reading": "はいって",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p6",
+      "text": "思う",
+      "reading": "おもう",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p6",
+      "text": "物",
+      "reading": "もの",
+      "status": "high"
+    },
+    {
+      "passageId": "n3-p6",
+      "text": "人",
+      "reading": "ひと",
+      "status": "high"
+    }
+  ]
+}
