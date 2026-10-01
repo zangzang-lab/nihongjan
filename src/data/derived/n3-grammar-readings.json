@@ -697,17 +697,6 @@
           ]
         ]
       }
-    },
-    "grammar-n3-0015-formation": {
-      "pattern": {},
-      "formation": {
-        "chunks": [
-          [
-            "中",
-            "ちゅう / じゅう"
-          ]
-        ]
-      }
     }
   }
 }
