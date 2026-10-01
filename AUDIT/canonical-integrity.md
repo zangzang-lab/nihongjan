@@ -26,7 +26,7 @@ dd2ab1fe6368fb9a3763ab20f801bf1d556a4160b51c2ba88365a5ebe69c0f64d  src/data/n4/c
 65d8a3ae3ba2103c5cbd28c95edac8c637085c93f855e319e4148d504f79fdf0  src/data/n3/canonical/n3_kanji.json
 b6f5aec316fd41fbfd06e7ed632ce8d45518391becd60956236efa71be88df94  src/data/n3/canonical/n3_vocab_examples.json
 a23576e9bebaeaceacdc072298a84439efd70520e07a5a8add801343eea319e  src/data/n3/canonical/n3_grammar.json
-6a57af3734ed80c7314f67546916c1f2e78e7244eeecaa8add801343eea319e  src/data/n3/canonical/n3_grammar_examples.json
+6a57af3734ed80c7314f67546916c1f2e78dcc8688248202445647178935bc08  src/data/n3/canonical/n3_grammar_examples.json
 
 ## Integrity result
 
