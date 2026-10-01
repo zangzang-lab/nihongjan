@@ -1,1 +1,12 @@
-PLACEHOLDER
+{
+  "source_zip_sha256": "81338539442d187f52db8db2f31f8cf379dddbb8d6d83c6c55621dbdeec417f8",
+  "candidate_reading_changes": 117,
+  "by_level": {
+    "N5": 65,
+    "N4": 23,
+    "N3": 29
+  },
+  "review_queue_records": 16,
+  "status": "staging manifest only; canonical datasets unchanged; Romaji strings not approved for production until the proper morphology-based regeneration is available",
+  "local_full_manifest": "/mnt/data/phase51-reading-review-manifest.json"
+}
