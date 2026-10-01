@@ -67,3 +67,9 @@ Romaji may be shown when it does not reveal an answer. Hide it for reading/ortho
 
 ## 17. Canonical boundary
 Never add Romaji to frozen canonical content merely to make rendering easier. Never use Romaji for SRS identity, question identity, or scoring.
+
+## 18. External reference baseline
+
+The Library of Congress 2022 Japanese Romanization Table uses modified Hepburn, specifies an apostrophe before a following vowel or y after a syllabic n, and states that romanized Japanese generally uses spaces between words. NihongJan is not a bibliographic catalog, so these rules are used as a reference baseline rather than copied blindly into the UI.
+
+Source: https://www.loc.gov/catdir/cpso/romanization/japanese.pdf
